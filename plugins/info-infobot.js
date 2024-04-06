@@ -48,7 +48,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://github.com/diegojadibot/SakuraBotLite-MD` },
+    document: { url: `https://github.com/MESIASREYES/SakuraBotLite-MD` },
     mimetype: `application/${document}`,
     fileName: `Sakura Bot Lite 🌸`,
     fileLength: 99999999999999,
