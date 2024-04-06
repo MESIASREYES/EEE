@@ -17,22 +17,9 @@ let txt = `*\`💫 Te presentamos un nuevo hosting: "Infinity-Wa Host"\`*
 💻 *Página:*
 https://host.panel-infinitywa.store
 
-🧡 *Canal de WhatsApp:*
-https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A
-
-💚 *Grupo:*
-https://chat.whatsapp.com/GQ82mPnSYnm0XL2hLPk7FV
-
-🛍️ *Método de pago:*
-*• PayPal :* paypal.me/OfcGB
-*• Mercado pago, alías:* OficialGB
-*• Naranja x, alías:* OficialGL
-*• Yape (Perú) :* +51948705559
-
 *\`💙 Contactanos para más información o alquidir los servicios:\`*
 • https://www.facebook.com/elrebelde21
-• wa.me/527294888993
-• wa.me/5492964650915`
+• wa.me/50376436909`
 await conn.sendMessage(m.chat, { text: txt,
 contextInfo:{
 forwardingScore: 9999999,
@@ -44,7 +31,7 @@ title: `🤖 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘𝐖𝐀-𝐇𝐎𝐒𝐓 🤖`,
 body: `✅ Hosting de Calidad`,
 "previewType": "PHOTO",
 thumbnailUrl: 'https://qu.ax/EQTd.jpg', 
-sourceUrl: 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A'}}},
+sourceUrl: 'null'}}},
 { quoted: m})
 }
 handler.tags =['info'] 
