@@ -11,7 +11,7 @@ function pickRandom(list) {
 }
 
 global.bucin = [
-  'Pasa el pack de una hormiga',
+  'Pasa el pack de tu hermana',
   'Dile a tus amigos que te vas a vivir a EU y mándame una captura de lo que te haya dicho',
   'Grita desde la ventana que quieres mamar y mándame el vídeo',
   'Escribe el nombre de tu crush',
@@ -20,7 +20,7 @@ global.bucin = [
   'Debes de dibujar en alguna parte de tu cuerpo el nombre de algún integrante del grupo, luego realiza una foto y envíala',
   'Hazte una foto dándole un beso a una Televisión',
   'Mándame una fotografía en ropa interior',
-  'Escribe en tu estado de WhatsApp que te gusta comer tierra',
+  'Escribe en tu estado de WhatsApp que te gusta comer pitó ',
   'Debes de poner la fotografía de un participante del grupo que sea del sexo opuesto al tuyo en tu perfil de WhatsApp durante 3 días 📸📸',
   'Tienes que mandar un audio cantando la canción: Un pato que va cantando alegremente cua cua 🦆',
   'Envía un mensaje a tu ex y dile todavía me gustas', 'Envía un audio diciendo amo a The Shadow Brokers - Bot',
