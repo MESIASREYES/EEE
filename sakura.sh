@@ -169,11 +169,9 @@ fi
 clear
 echo -e "\e[36m
 ┏╍┅┅┅╍⪻ 𝐒𝐚𝐤𝐮𝐫𝐚𝐁𝐨𝐭-𝐌𝐃 ⪼┅┅┅┅┅┓
-┋❥ 𝐏𝐫𝐨𝐩𝐢𝐞𝐭𝐚𝐫𝐢𝐨: diegojadibot
-┋❥ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: www.youtube.com/@SakuraBotLite
-┋❥ 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: www.facebook.com/diegosaroficial
-┋❥ 𝐆𝐢𝐭𝐇𝐮𝐛: github.com/diegojadibot
-┋❥ 𝐍𝐮𝐦𝐞𝐫𝐨: +57 301 2482694
+┋❥ 𝐏𝐫𝐨𝐩𝐢𝐞𝐭𝐚𝐫𝐢𝐨: 🆁🅴🆈🅴🆂
+┋❥ 𝐆𝐢𝐭𝐇𝐮𝐛: github.com/MESIASREYES
+┋❥ 𝐍𝐮𝐦𝐞𝐫𝐨: +503 76436909
 ┋┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
 ┋❥ 👋 𝐇𝐨𝐥𝐚 𝐮𝐬𝐮𝐚𝐫𝐢𝐨 𝐠𝐫𝐚𝐜𝐢𝐚𝐬 𝐩𝐨𝐫 𝐩𝐫𝐞𝐟𝐞𝐫𝐢𝐫𝐧𝐨𝐬.
 ┋❥ 🟢 𝐀𝐜𝐭𝐢𝐯𝐚 𝐭𝐮 𝐛𝐨𝐭 24/7 𝐜𝐨𝐧 𝐞𝐥 𝐜𝐨𝐦𝐚𝐧𝐝𝐨 𝐦𝐩3 🚀.
