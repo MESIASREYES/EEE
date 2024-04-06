@@ -18,7 +18,6 @@ let txt = `*\`💫 Te presentamos un nuevo hosting: "Infinity-Wa Host"\`*
 https://host.panel-infinitywa.store
 
 *\`💙 Contactanos para más información o alquidir los servicios:\`*
-• https://www.facebook.com/elrebelde21
 • wa.me/50376436909`
 await conn.sendMessage(m.chat, { text: txt,
 contextInfo:{
