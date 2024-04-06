@@ -191,17 +191,17 @@ let numeroTelefono
 if (!!phoneNumber) {
 numeroTelefono = phoneNumber.replace(/[^0-9]/g, '')
 if (!Object.keys(PHONENUMBER_MCC).some(v => numeroTelefono.startsWith(v))) {
-console.log(chalk.bgBlack(chalk.bold.redBright("🟢 Comience con el código de país de su número de WhatsApp, ejemplo: +59178862672\n")))
+console.log(chalk.bgBlack(chalk.bold.redBright("🟢 Comience con el código de país de su número de WhatsApp, ejemplo: +50376436909\n")))
 process.exit(0)
 }} else {
 while (true) {
-numeroTelefono = await question(chalk.bgBlack(chalk.bold.yellowBright('🟢 Ingresa el número que sera bot\nPor ejemplo: +59178862672\n')))
+numeroTelefono = await question(chalk.bgBlack(chalk.bold.yellowBright('🟢 Ingresa el número que sera bot\nPor ejemplo: +50376436909\n')))
 numeroTelefono = numeroTelefono.replace(/[^0-9]/g, '')
 
 if (numeroTelefono.match(/^\d+$/) && Object.keys(PHONENUMBER_MCC).some(v => numeroTelefono.startsWith(v))) {
 break 
 } else {
-console.log(chalk.bgBlack(chalk.bold.redBright("🟢 Por favor, escriba su número de WhatsApp.\nEjemplo: +5219992095479.\n")))
+console.log(chalk.bgBlack(chalk.bold.redBright("🟢 Por favor, escriba su número de WhatsApp.\nEjemplo: +50376436909.\n")))
 }}
 rl.close()  
 } 
@@ -329,7 +329,7 @@ if (opcion == '1' || methodCodeQR) {
  }}
    if (connection == 'open') {
 console.log(chalk.greenBright('\n╭┈ ┈ ┈ ┈ ┈ • 𝙎𝙖𝙠𝙪𝙧𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌸 • ┈ ┈ ┈ ┈ ┈╮\n┊ 💚 CONEXIÓN EXITOSA CON WHATSAPP 💚\n╰┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈ ┈╯\n'))
-//conn.fakeReply('573012482694@s.whatsapp.net', '😄', '0@s.whatsapp.net', '😸 Soy SakuraBot\nRecientemente Me E Conectado', '0@s.whatsapp.net')
+//conn.fakeReply('50376436909@s.whatsapp.net', '😄', '0@s.whatsapp.net', '😸 Soy SakuraBot\nRecientemente Me E Conectado', '0@s.whatsapp.net')
    }
 let reason = new Boom(lastDisconnect?.error)?.output?.statusCode;
 if (reason == 405) {
@@ -398,7 +398,7 @@ global.reloadHandler = async function(restatConn) {
     conn.ev.off('creds.update', conn.credsUpdate);
   }
 
- conn.welcome = '*╭ﾟ♡ﾟ* @subject *ﾟ♡ﾟ*\n┃✎﹏ *BIENVENIDO(A)!!*\n┃✎﹏ @user\n┃✎﹏ *LEA LA DESCRIPCIÓN DEL GRUPO*\n*╰ﾟ･:✿｡･ﾟ♡ﾟ𝑫𝑰𝑬𝑮𝑶 𝑶𝑭𝑪 ﾟ♡ﾟ･｡✿:･ﾟ*\n\n@desc';
+ conn.welcome = '*╭ﾟ♡ﾟ* @subject *ﾟ♡ﾟ*\n┃✎﹏ *BIENVENIDO(A)!!*\n┃✎﹏ @user\n┃✎﹏ *LEA LA DESCRIPCIÓN DEL GRUPO*\n*╰ﾟ･:✿｡･ﾟ♡ﾟ🆁🅴🆈🅴🆂 ﾟ♡ﾟ･｡✿:･ﾟ*\n\n@desc';
   conn.bye = '*╭══════ ⎘『 ♡ 』⎗ ══════╮*\n╏ @user\n╏ *NO LE SABE AL GRUPO, CHAO!!* 😸\n*╰══════ ⎘『 ♡ 』⎗ ══════╯*';
   conn.spromote = '@user\n𝗔𝗛𝗢𝗥𝗔 𝗘𝗦 𝗔𝗗𝗠𝗜𝗡 𝗗𝗘 𝗘𝗦𝗧𝗘 𝗚𝗥𝗨𝗣𝗢.';
   conn.sdemote = '@user\n𝗗𝗘𝗝𝗔 𝗗𝗘 𝗦𝗘𝗥 𝗔𝗗𝗠𝗜𝗡 𝗘𝗡 𝗘𝗦𝗧𝗘 𝗚𝗥𝗨𝗣𝗢.';
