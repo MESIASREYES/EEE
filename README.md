@@ -56,7 +56,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/diegojadibot/SakuraBotLite-MD && cd SakuraBotLite-MD
+git clone https://github.com/MESIASREYES/SakuraBotLite-MD && cd SakuraBotLite-MD
 ```
 ```bash
 yarn install && npm install
@@ -83,7 +83,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - ### 📍Actualizar SakuraBot 🟢
 > Note Comandos para actualizar SakuraBotLite-MD de forma automática
 ```bash
-grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/diegojadibot/SakuraBotLite-MD/master/update.sh | bash
+grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/MESIASREYES/SakuraBotLite-MD/master/update.sh | bash
 ```
 Para que no pierda su progreso en SakuraBot, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 
@@ -117,7 +117,7 @@ para usuarios del heroku
 
 ### Editor Y Propietario Del Bot 🌹⚡️
 <a
-href="https://github.com/diegojadibot"><img src="https://github.com/diegojadibot.png" width="200" height="200" alt="Diego"/></a>
+href="https://github.com/diegojadibot"><img src="https://github.com/MESIASREYES.png" width="200" height="200" alt="Diego"/></a>
 
 ## Colaboradores Del Bot ✨️  
 [![AzamiJs](https://github.com/AzamiJs.png?size=100)](https://github.com/AzamiJs) [![elrebelde21](https://github.com/elrebelde21.png?size=100)](https://github.com/elrebelde21) [![MoonContentCreator](https://github.com/MoonContentCreator.png?size=100)](https://github.com/MoonContentCreator)
