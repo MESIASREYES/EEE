@@ -13,18 +13,23 @@ global.confirmCode = ""
 
 //• ↳𝑷𝑶𝑵 𝑳𝑶𝑺 𝑵𝑼𝑴𝑬𝑹𝑶𝑺 𝑸𝑼𝑬 𝑸𝑼𝑰𝑬𝑹𝑨𝑺
 global.owner = [
- ['50376436909', '👑 🆁🅴🆈🅴🆂 ⚡️', true],
- ['447863572502', '𝐄𝐑𝐈𝐂𝐊 📖', true],
+ ['50376436909', '👑🆁🅴🆈🅴🆂 ⚡️', true],
+ ['447863572502', '🅴🆁🅸🅲🅺📖', true],
+ ['50376436909'],
+ ['447863572502'],
+ ['50376436909'],
+ ['447863572502'],
+ ['50376436909']]
 
 //• ↳𝑨𝑮𝑹𝑬𝑮𝑨𝑻𝑬 𝑺𝑰 𝑬𝑹𝑬𝑺 𝑶𝑾𝑵𝑬𝑹
 global.contactos = [
 ["50376436909", '🆁🅴🆈🅴🆂 ⚡️', 1],
-["447863572502", '𝗢𝘄𝗻𝗲𝗿 📖', 1],
+["447863572502", '🅴🆁🅸🅲🅺 📖', 1],
 ["50376436909", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 🍧', 1],
-["447863572502", '𝐄𝐑𝐈𝐂𝐊 🌹', 1]]
+["447863572502", '𝗦𝗼𝗽𝗼𝗿𝘁𝗲 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🌹', 1]]
 
 
-global.suittag = ['50376436909'];
+global.suittag = ['447863572502'];
 global.prems = ['50376436909'];
 
 global.lenguajeSK = es //idioma de sakurabot
@@ -35,8 +40,8 @@ global.author = '🆁🅴🆈🅴🆂 🌩';
 global.wm = 'Sakura : Bot 🌹';
 global.sk = '𝗦𝖺𝗄𝗎𝗋𝖺 : 𝗕𝗈𝗍 - 𝗟𝗂𝗍𝖾';
 global.titulowm = '𝗦𝖺𝗄𝗎𝗋𝖺 : 𝗕𝗈𝗍';
-global.titulowm2 = `𝘿𝙞𝙚𝙜𝙤 𝙊𝙛𝙞𝙘𝙞𝙖𝙡`
-global.igfg = '🆁🅴🆈🅴🆂';
+global.titulowm2 = `🆁🅴🆈🅴🆂`
+global.igfg = '🅴🆁🅸🅲🅺';
 global.vs = '1.0.7';
 global.vsJB = '1.0.2';
 
@@ -55,17 +60,6 @@ global.imagen5 = fs.readFileSync('./src/+18.jpg');
 global.imagen6 = fs.readFileSync('./Menu3.png');
 global.imagen7 = fs.readFileSync('./AhoraQue.png');
 global.imagen8 = fs.readFileSync('./Que.jpg');
-
-//• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp1 = 'https://chat.whatsapp.com/Je2huZINJkC6fLZ8c3RpCA' //𝐂.𝐃.𝐑-𝐌𝐃
-
-global.gp2 = 'https://chat.whatsapp.com/Je2huZINJkC6fLZ8c3RpCA' //𝐂.𝐃.𝐑-𝐌𝐃
-
-global.gp3 = 'https://chat.whatsapp.com/Je2huZINJkC6fLZ8c3RpCA' //𝐂.𝐃.𝐑-𝐌𝐃
-
-global.gp4 = 'https://chat.whatsapp.com/Je2huZINJkC6fLZ8c3RpCA' //𝐂.𝐃.𝐑-𝐌𝐃
-
-global.channel = 'https://whatsapp.com/channel/0029VaLk6W0Gk1Fko9qbCD2o' //Canal Oficial
 
 //• ↳ ◜𝑻𝑰𝑬𝑴𝑷𝑶 𝑹𝑷𝑮◞ • ⚔
 var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Linda Mañana'; break; case 1: hour = 'Linda Mañana'; break; case 2: hour = 'Linda Mañana'; break; case 3: hour = 'Linda Mañana'; break; case 4: hour = 'linda mañana'; break; case 5: hour = 'Linda Mañana'; break; case 6: hour = 'Linda Mañana'; break; case 7: hour = 'Linda Mañana'; break; case 8: hour = 'Linda Mañana'; break; case 9: hour = 'Linda Mañana'; break; case 10: hour = 'Lindo Dia'; break; case 11: hour = 'Lindo Dia'; break; case 12: hour = 'Lindo Dia'; break; case 13: hour = 'Lindo Dia'; break; case 14: hour = 'Linda Tarde'; break; case 15: hour = 'Linda Tarde'; break; case 16: hour = 'Linda Tarde'; break; case 17: hour = 'Linda Tarde'; break; case 18: hour = 'Linda Noche'; break; case 19: hour = 'Linda Noche'; break; case 20: hour = 'Linda Noche'; break; case 21: hour = 'Linda Noche'; break; case 22: hour = 'Linda Noche'; break; case 23: hour = 'Linda Noche'; break;}
@@ -86,7 +80,7 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 global.wm2 = `${dia} ${fecha}\nSakuritaBot`;
 global.gt = 'SakuraBot';
 global.mysticbot = 'SakuraBot';
-global.mysticbot = 'https://github.com/MESIASREYES/SakuraBotLite-MD';
+global.mysticbot = 'https://github.com/diegojadibot/SakuraBotLite-MD';
 global.nomorown = '50376436909';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
