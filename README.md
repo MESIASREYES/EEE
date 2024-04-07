@@ -14,7 +14,7 @@
 
 
 - ### 🌤Configuracion🧩
- Clonar Repo : SakuraBot [Aqui.](https://github.com/diegojadibot/SakuraBotLite-MD/fork)
+ Clonar Repo : SakuraBot [Aqui.](https://github.com/MESIASREYES/SakuraBotLite-MD/fork)
 
    
   
@@ -29,9 +29,6 @@
 
 - #### 📍Instalacion Por Termux Automatica🧸
 
-[![blog](https://img.shields.io/badge/Instalacion-Automatica-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/X-wQbVhLb8w?si=UdP9uM5SPFRY75nU)
-
 [`🧩 Instalar Termux Clic Aqui`](https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.apk/file)
  
 ```bash
@@ -39,13 +36,10 @@ termux-setup-storage
 ```
 
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/diegojadibot/SakuraBotLite-MD/master/sakura.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/MESIASREYES/SakuraBotLite-MD/master/sakura.sh | bash
 ```
 
 - #### 📍Instalacion Por Termux Manual👨‍💻
-
-[![blog](https://img.shields.io/badge/Instalacion-Manual-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/9-v4XwMTJYE?si=STdO2GwZR1GAmXfA)
 
 > ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
@@ -89,35 +83,6 @@ Para que no pierda su progreso en SakuraBot, estos comandos realizarán un respa
 
 > Warning Estos comandos solo funcionan para TERMUX, REPLIT, LINUX
 
-- ### 📍 Activar En Heroku 🚀
-para usuarios del heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/diegojadibot/SakuraBotLite-MD)
-
-#### Heroku Buildpack
-| BuildPack | LINK |
-|--------|--------|
-| **FFMPEG** |[click](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [click](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
-
-***
-
-
-## <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Creator 🧸" width="42" height="42"> Creator 🧸
-
-* <a href="https://wa.me/50376436909"><img alt="Creator 🧸" src="https://img.shields.io/badge/Diego - Creator🧸-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-
-## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> Bot Oficial 📍
-
-* <a href="https://wa.me/51939041500?text=!menu"><img alt="Bot Oficial 📍" src="https://img.shields.io/badge/Bot - Oficial📍-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-> No Spam Al Bot!
----------
-
 ### Editor Y Propietario Del Bot 🌹⚡️
 <a
 href="https://github.com/diegojadibot"><img src="https://github.com/MESIASREYES.png" width="200" height="200" alt="Diego"/></a>
-
-## Colaboradores Del Bot ✨️  
-[![AzamiJs](https://github.com/AzamiJs.png?size=100)](https://github.com/AzamiJs) [![elrebelde21](https://github.com/elrebelde21.png?size=100)](https://github.com/elrebelde21) [![MoonContentCreator](https://github.com/MoonContentCreator.png?size=100)](https://github.com/MoonContentCreator)
