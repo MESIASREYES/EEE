@@ -20,7 +20,7 @@ const handler = async (m, {conn, text, isMods, isOwner, isPrems}) => {
     }
   } catch {
     enviando = false 
-    throw '*📇 Ejemplo:*\n!unete https://chat.whatsapp.com/Eaa9JFA53ps7WHMv2VHbO9';
+    throw '*📇 Ejemplo:*\n!unete https://chat.whatsapp.com/Je2huZINJkC6fLZ8c3RpCA';
   }
 };
 handler.help = ['join [chat.whatsapp.com]'];
