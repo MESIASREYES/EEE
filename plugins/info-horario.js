@@ -24,7 +24,7 @@ const handler = async (m, {conn}) => {
   await conn.sendMessage(m.chat, {text: `\`\`\`
 「 ZONA-HORARIA ⏰ 」
 ⏱️Peru       : ${fechaper}
-⏱️El_salvador     : ${fechamex}
+⏱️El_salvador: ${fechamex}
 ⏱️Bolivia    : ${fechabol}
 ⏱️Chile      : ${fechachi}
 ⏱️Argentina  : ${fechaarg}
