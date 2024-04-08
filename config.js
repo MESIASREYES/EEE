@@ -1,4 +1,4 @@
-import {watchFile, unwatchFile} from 'fs';
+
 import chalk from 'chalk';
 import {fileURLToPath} from 'url';
 import fs from 'fs'; 
@@ -13,24 +13,17 @@ global.confirmCode = ""
 
 //• ↳𝑷𝑶𝑵 𝑳𝑶𝑺 𝑵𝑼𝑴𝑬𝑹𝑶𝑺 𝑸𝑼𝑬 𝑸𝑼𝑰𝑬𝑹𝑨𝑺
 global.owner = [
- ['50376436909', '👑🆁🅴🆈🅴🆂 ⚡️', true],
- ['447863572502', '🅴🆁🅸🅲🅺📖', true],
- ['50376436909'],
- ['447863572502'],
- ['50376436909'],
- ['447863572502'],
- ['50376436909']]
+ ['50376436909', '👑 🆁🅴🆈🅴🆂 ⚡️', true],
+ ['447863572502', '🅴🆁🅸🅲🅺 📖', true]]
 
 //• ↳𝑨𝑮𝑹𝑬𝑮𝑨𝑻𝑬 𝑺𝑰 𝑬𝑹𝑬𝑺 𝑶𝑾𝑵𝑬𝑹
 global.contactos = [
 ["50376436909", '🆁🅴🆈🅴🆂 ⚡️', 1],
-["447863572502", '🅴🆁🅸🅲🅺 📖', 1],
-["50376436909", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 🍧', 1],
-["447863572502", '𝗦𝗼𝗽𝗼𝗿𝘁𝗲 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🌹', 1]]
+["447863572502", '🅴🆁🅸🅲🅺📖', 1]]
 
 
-global.suittag = ['447863572502'];
-global.prems = ['50376436909'];
+global.suittag = ['573012482597'];
+global.prems = ['573218138672'];
 
 global.lenguajeSK = es //idioma de sakurabot
 
@@ -41,7 +34,7 @@ global.wm = 'Sakura : Bot 🌹';
 global.sk = '𝗦𝖺𝗄𝗎𝗋𝖺 : 𝗕𝗈𝗍 - 𝗟𝗂𝗍𝖾';
 global.titulowm = '𝗦𝖺𝗄𝗎𝗋𝖺 : 𝗕𝗈𝗍';
 global.titulowm2 = `🆁🅴🆈🅴🆂`
-global.igfg = '🅴🆁🅸🅲🅺';
+global.igfg = '🆁🅴🆈🅴🆂';
 global.vs = '1.0.7';
 global.vsJB = '1.0.2';
 
@@ -80,7 +73,7 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 global.wm2 = `${dia} ${fecha}\nSakuritaBot`;
 global.gt = 'SakuraBot';
 global.mysticbot = 'SakuraBot';
-global.mysticbot = 'https://github.com/diegojadibot/SakuraBotLite-MD';
+global.mysticbot = 'https://github.com/MESIASREYES/SakuraBotLite-MD';
 global.nomorown = '50376436909';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
